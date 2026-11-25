@@ -7,5 +7,5 @@ This is the repo offering the custom dual boot bootloader source code for ALTROM
 * Take a backup using [mtk_dump](https://github.com/ilyakurdyukov/mediatek_flash).(Mandatory!).
 * build using Embitz ide.
 * Flash using DZ09 instructions.
-* Switch between either os by pressing or releasing the 5 KEY.
+* Switch between either os by pressing or releasing the 5 KEY (PRESS=ALTROM ,NO_PRESS=STOCK OS ).
 * To undo changes flash original firmware dump using mtk_dump.
